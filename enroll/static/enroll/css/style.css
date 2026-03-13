@@ -1,0 +1,49 @@
+/* Mobile adjustments */
+@media (max-width: 768px){
+
+h2{
+    font-size:22px;
+}
+
+.alert{
+    font-size:14px;
+}
+
+table{
+    font-size:14px;
+}
+
+.btn{
+    margin-bottom:5px;
+}
+
+}
+
+@media (max-width:768px){
+
+table{
+    font-size:14px;
+}
+
+.btn-sm{
+    padding:3px 6px;
+    font-size:12px;
+}
+
+}
+
+.table-responsive{
+    overflow-x: auto;
+}
+
+@media (max-width:768px){
+
+table{
+    font-size:13px;
+}
+
+th, td{
+    white-space: nowrap;
+}
+
+}
